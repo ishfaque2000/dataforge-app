@@ -8,7 +8,7 @@ A powerful 3-phase Machine Learning data preparation app built with Streamlit. S
 
 ## 🚀 Live Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rawdatatransformer.streamlit.app/)
 
 ---
 
