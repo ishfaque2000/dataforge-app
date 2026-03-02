@@ -152,19 +152,9 @@ openpyxl
 
 ---
 
-## 🌐 Deploy on Streamlit Cloud
-
-1. Fork this repository
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Click **"New app"**
-4. Select this repo → set main file to `data_pipeline_app.py`
-5. Click **Deploy** 🎉
-
----
-
 ## 👨‍💻 Author
 
-Made with ❤️ for the Data Science community
+Ishfaque Ahmed
 
 ---
 
